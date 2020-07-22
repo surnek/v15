@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "104516058316",
+    "firebase_url": "https://deepsound-254108.firebaseio.com",
+    "project_id": "deepsound-254108",
+    "storage_bucket": "deepsound-254108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104516058316:android:f492209b34748ca7359669",
+        "android_client_info": {
+          "package_name": "com.DeepSound.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104516058316-tck5k0nbc00lmg9vfco9232kthekhc34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.DeepSound.Android",
+            "certificate_hash": "1c147ac697340503d6b050e37fad64ca2965c1e4"
+          }
+        },
+        {
+          "client_id": "104516058316-0ss4l550o870pk59fm46vvv62vpidhpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4EDeynAS43yoR6AzW9gai1rc_cAvQ5TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104516058316-0ss4l550o870pk59fm46vvv62vpidhpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5135691635931982~1995780558"
+    }
+  ],
+  "configuration_version": "1"
+}

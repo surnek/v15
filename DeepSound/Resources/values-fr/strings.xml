@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--Notes :-->
+  <!-- - If the text is marked &apos; Please replace with the symbol &apos; and add at the beginning and end of the sentence "
+        Example: Le's get started! >> "Let&apos;s get started!"  -->
+  <!-- - If the text is marked & Please replace with the symbol &amp; 
+        Example. Movies & Animation >> Movies &amp; Animation   -->
+  <!--supportsRtl-->
+  <string name="Is_arabic">false</string>
+  <!--===============================================================-->
+  <!--most used-->
+  <string name="video">Vidéo</string>
+  <string name="audio">Audio</string>
+  <string name="image">Image</string>
+  <string name="text">Texte</string>
+  <string name="retry">Recommencez</string>
+  <string name="Lbl_Empty">Vide</string>
+  <string name="Lbl_Loading">Chargement</string>
+  <string name="Lbl_LoadingData">Chargement des données..</string>
+  <string name="Lbl_Comment">Commentaire</string>
+  <string name="Lbl_Videos">Vidéos</string>
+  <string name="Lbl_Views">Des vues</string>
+  <string name="Lbl_aboutMe">À propos de moi</string>
+  <string name="Lbl_About">Sur</string>
+  <string name="Lbl_Error">Erreur</string>
+  <string name="Lbl_Ok">OK</string>
+  <string name="Lbl_Security">Sécurité</string>
+  <string name="Lbl_Done">Terminé</string>
+  <string name="Lbl_Deleted">Supprimé</string>
+  <string name="Lbl_Delete">Supprimer</string>
+  <string name="Lbl_Submit">Soumettre</string>
+  <string name="Lbl_Cancel">Annuler</string>
+  <string name="Lbl_Yes">Oui</string>
+  <string name="Lbl_No">Non</string>
+  <string name="Lbl_Warning">Attention</string>
+  <string name="Lbl_Changed">Modifié</string>
+  <string name="Lbl_Crop">Surgir</string>
+  <string name="Lbl_Report">Rapport</string>
+  <string name="Lbl_Quality">Qualité</string>
+  <string name="Lbl_Help_feedback">"Aidez-moi&amp; Retour d&apos;information"</string>
+  <string name="Lbl_Make_video_offline">Rendre la vidéo hors ligne</string>
+  <string name="Lbl_Share">Partager</string>
+  <string name="Lbl_InviteSMSText_1">Hi let is meet on</string>
+  <string name="Lbl_InviteSMSText_2">pour votre smartphone</string>
+  <string name="Lbl_Success">Succès</string>
+  <string name="Lbl_Offline_Mode">Mode hors-ligne</string>
+  <string name="Lbl_Cover">Couverture</string>
+  <string name="Lbl_Avatar">Avatar</string>
+  <string name="Lbl_Close">proche</string>
+  <string name="Lbl_With">Avec</string>
+  <string name="Lbl_At">à</string>
+  <string name="Lbl_SelectPictures">Sélectionnez des images</string>
+  <string name="Lbl_SelectImage">"Sélectionnez l&apos;images"</string>
+  <string name="Lbl_SelectFile">Sélectionnez les fichiers</string>
+  <string name="Lbl_SelectGif">Sélectionnez Gif</string>
+  <string name="Lbl_Unknown">Inconnue</string>
+  <string name="Lbl_ReadMore">Lire la suite</string>
+  <string name="Lbl_ReadLess">Lire moins</string>
+  <string name="Lbl_Description">Description</string>
+  <string name="Lbl_Published_on">Publié le</string>
+  <string name="Lbl_I_agree_to_the">"je suis d&apos;accord avec le"</string>
+  <string name="Lbl_Last_seen">"Dernière vue"</string>
+  <string name="Lbl_Create_Account">Créer un compte</string>
+  <string name="Lbl_SignUp">"S&apos;inscrire"</string>
+  <string name="Lbl_Like">Comme</string>
+  <string name="Lbl_Likes">Aimes</string>
+  <string name="Lbl_Create">Créer</string>
+  <string name="Lbl_Users">Utilisateurs</string>
+  <string name="Lbl_Send">Envoyer</string>
+  <string name="Lbl_Male">Homme</string>
+  <string name="Lbl_Female">Femme</string>
+  <string name="Lbl_Public">Public</string>
+  <string name="Lbl_Private">Privé</string>
+  <string name="Lbl_Save">Savegarder</string>
+  <string name="Lbl_Country">Pays</string>
+  <string name="Lbl_Settings">Paramètres</string>
+  <string name="Lbl_Send_to">Envoyer à</string>
+  <string name="Lbl_Copy">Copie</string>
+  <string name="Lbl_CopyLinkToProfile">Copier le lien vers le profil</string>
+  <string name="Lbl_Type">Type</string>
+  <string name="Lbl_Remember">Se souvenir</string>
+  <string name="Lbl_Online">En ligne</string>
+  <string name="Lbl_Processing">En traitement...</string>
+  <string name="Lbl_Created">Créer</string>
+  <string name="Lbl_By">Par</string>
+  <string name="Lbl_Selected">Selectionné</string>
+  <string name="Lbl_Music">Musique</string>
+  <!--===============================================================-->
+  <!--First Page -->
+  <string name="Lbl_FirstTitle">Rejoignez-nous et écoutez de la musique et des podcasts gratuits sur</string>
+  <string name="Lbl_FirstSubTitle">"Découvrez, diffusez et partagez un mélange sans cesse croissant de musique d&apos;artistes émergents et majeurs du monde entier."</string>
+  <!--===============================================================-->
+  <!--Login && Register -->
+  <string name="Lbl_FirstName">Prénom</string>
+  <string name="Lbl_LastName">Nom de Famille</string>
+  <string name="Lbl_Username">Pseudo</string>
+  <string name="Lbl_Email">Email</string>
+  <string name="Lbl_Login">"S&apos;identifier"</string>
+  <string name="Lbl_Log_In">Se déconnecter</string>
+  <string name="Lbl_Register">"S&apos;enregistrer"</string>
+  <string name="Lbl_SignIn">"S&apos;identifier"</string>
+  <string name="Lbl_DontHaveAnAccount">"Vous n&apos;avez pas de compte ?"</string>
+  <string name="Lbl_Or">Ou</string>
+  <string name="Lbl_Please_write_your_email">"S&apos;il vous plaît écrivez votre email"</string>
+  <string name="Lbl_Null_Data_User">Utilisateur de données nul</string>
+  <string name="Lbl_Create_An_Account">Créer un compte</string>
+  <string name="Lbl_By_registering_you_agree_to_our">En vous inscrivant, vous acceptez notre</string>
+  <string name="Lbl_Terms_of_service">"Conditions d&apos;utilisation"</string>
+  <string name="Lbl_Already_Have_an_Account">Vous avez déjà un compte</string>
+  <string name="Lbl_Error_Register_password">"S&apos;inscrire non correct, mot de passe d&apos;erreur"</string>
+  <string name="Lbl_Error_Login">"Identification incorrect, erreur du Nom d&apos;utilisateur ou mot de passe"</string>
+  <string name="Lbl_VerifyRegistration">Inscription réussi! Nous vous avons envoyé un courrier électronique. Veuillez vérifier votre boîte de réception / spam pour vérifier votre compte.</string>
+  <string name="Lbl_I_NewUser">"JE SUIS NOUVEL UTILISATEUR"</string>
+  <string name="Lbl_I_have_account">"J&apos;ai un compte. Entrez"</string>
+  <string name="Lbl_Skip">SAUTER</string>
+
+
+  <!--===============================================================-->
+  <!-- Password-->
+  <string name="Lbl_Password">Mot de passe</string>
+  <string name="Lbl_ConfirmPassword">Confirmez le mot de passe</string>
+  <string name="Lbl_Forget_password">Mot de passe oublié ?</string>
+  <string name="Lbl_Forgot_your_password_DontWorry">"Ne vous inquiétez pas, tapez votre email ici et nous le récupérerons pour vous.."</string>
+  <string name="Lbl_Change_Password">Changer le mot de passe</string>
+  <string name="Lbl_Current_Password">Mot de passe actuel</string>
+  <string name="Lbl_New_Password">Nouveau mot de passe</string>
+  <string name="Lbl_Repeat_password">Répéter le mot de passe</string>
+  <string name="Lbl_Your_password_dont_match">Votre mot de passe ne correspond pas</string>
+  <string name="Lbl_Enter_Password">Entrez votre mot de passe ici</string>
+  <string name="Lbl_Change_your_password">changez votre mot de passe</string>
+  <string name="Lbl_Please_enter_your_email_address">"S&apos;il vous plaît entrer votre adresse email"</string>
+  <string name="Lbl_We_will_send_you_link_to_reset_password">Nous vous enverrons un lien pour réinitialiser le mot de passe.</string>
+  <string name="Lbl_If_you_forgot_your_password">"Si vous avez oublié votre mot de passe, vous pouvez le réinitialiser à partir d&apos;ici."</string>
+  <string name="Lbl_Please_confirm_your_password">Erreur, veuillez confirmer votre mot de passe</string>
+  <!--===============================================================-->
+  <!--WalkTroutPage-->
+  <string name="Lbl_FinishButton_WalkTroutPage">Commencer</string>
+  <string name="Lbl_Title_page1">Musique</string>
+  <string name="Lbl_Description_page1">Écouter de la musique partout, à tout moment</string>
+  <string name="Lbl_Title_page2">Playlist</string>
+  <string name="Lbl_Description_page2">"Créer une liste de lecture avec n&apos;importe quelle chanson, On-The-Go"</string>
+  <string name="Lbl_Title_page3">Appel à tous les créateurs</string>
+  <string name="Lbl_Description_page3">Connectez-vous avec vos fans, partagez vos sons et développez votre public</string>
+  <!--===============================================================-->
+  <!--Profile-->
+  <string name="Lbl_ProfileInfo">Information de profil</string>
+  <string name="Lbl_InformationAboutYourProfile">Informations sur votre profil</string>
+  <string name="Lbl_Bio">Bio</string>
+  <string name="Lbl_ChooseYourCountry">Choisis ton pays</string>
+  <string name="Lbl_ChooseYourAge">Choisis ton age</string>
+  <string name="Lbl_Location">Emplacement</string>
+  <string name="Lbl_Followers">Followers</string>
+  <string name="Lbl_Following">Following</string>
+  <string name="Lbl_Tracks">Des pistes</string>
+  <string name="Lbl_Follow">Suivre</string>
+  <string name="Lbl_Friends">Des Amis</string>
+  <string name="Lbl_People_Following">Les gens qui suivent</string>
+  <string name="Lbl_People_Followers">Les gens suivi</string>
+  <string name="Lbl_Gender">Le genre</string>
+  <string name="Lbl_FullName">Nom complet</string>
+  <string name="Lbl_NoMoreUser">Aucun autre utilisateur trouvé</string>
+  <string name="Lbl_ChangeCoverImage">"Changer l&apos;image de couverture"</string>
+  <string name="Lbl_HasNotAnyInfo">"N&apos;a aucune information"</string>
+  <!--===============================================================-->
+  <!--Time-->
+  <string name="Lbl_justNow">Juste maintenant</string>
+  <string name="Lbl_hours">Il y a quelques heures</string>
+  <string name="Lbl_days">Il y a quelques jours</string>
+  <string name="Lbl_month">Il y a quelques mois</string>
+  <string name="Lbl_minutes">Il y a quelques minutes</string>
+  <string name="Lbl_seconds">Il y a quelques secondes</string>
+  <string name="Lbl_year">Il y a quelques années</string>
+  <string name="Lbl_CutHours">H</string>
+  <string name="Lbl_CutDays">J</string>
+  <string name="Lbl_CutMonth">M</string>
+  <string name="Lbl_CutMinutes">Min</string>
+  <string name="Lbl_CutSeconds">Sec</string>
+  <string name="Lbl_CutYear">A</string>
+  <string name="Lbl_about_minute">Il y a environ une minute</string>
+  <string name="Lbl_about_hour">Il y a environ quelques heures</string>
+  <string name="Lbl_yesterday">hier</string>
+  <string name="Lbl_about_month">Il y a environ quelque mois</string>
+  <string name="Lbl_about_year">Il y a environ un ans</string>
+  <!--===============================================================-->
+  <!--Toast && Messages-->
+  <string name="Lbl_Permission_is_denied">"Désolé, vous ne pouvez pas poursuivre votre action si vous ne permettez pas"</string>
+  <string name="Lbl_something_went_wrong">"Vérifiez vos informations d&apos;identification quelque chose s&apos;est mal passé"</string>
+  <string name="Lbl_CheckYourInternetConnection">"S&apos;il vous plait, vérifiez votre connexion internet"</string>
+  <string name="Lbl_VerificationFailed">Échec de la vérification</string>
+  <string name="Lbl_You_will_be_logged">Vous serez déconnecté maintenant, à plus tard</string>
+  <string name="Lbl_Are_you_logout">Êtes-vous sûr de vouloir vous déconnecter ?</string>
+  <string name="Lbl_Text_copied">Texte copié dans le presse-papier</string>
+  <string name="Lbl_Text_report">Il a été envoyé un rapport</string>
+  <string name="Lbl_PleaseAddPhoneNumberCorrectly">"S&apos;il vous plaît ajouter le numéro de téléphone correctement"</string>
+  <string name="Lbl_Sent_successfully_followed">"Vous avez suivi l&apos;utilisateur avec succès"</string>
+  <string name="Lbl_Sent_successfully_Unfollowed">"L&apos;utilisateur a été non suivi"</string>
+  <string name="Lbl_NoSongSelected">Aucune chanson sélectionnée</string>
+  <!--===============================================================-->
+  <!--Fragment-->
+  <string name="Lbl_Feed">Alimentation</string>
+  <string name="Lbl_Playlist">Playlist</string>
+  <string name="Lbl_Browse">Achat</string>
+  <string name="Lbl_Library">Bibliothèque</string>
+  <string name="Lbl_Profile">Profile</string>
+  <string name="Lbl_Notifications">Notifications</string>
+  <string name="Lbl_messages">Messages</string>
+  <string name="Lbl_Search">Chercher</string>
+  <!--===============================================================-->
+  <!--Button-->
+  <!--===============================================================-->
+  <string name="Btn_Send">Envoyer</string>
+  <string name="Btn_Import">Importer</string>
+  <string name="Btn_Upload">Uploader</string>
+  <string name="Btn_Comments">commentaires</string>
+  <string name="Btn_UploadSingleSong">Upload un Single</string>
+  <string name="Btn_UploadAnAlbum">Upload un Album</string>
+  <string name="Btn_Publish">Publier</string>
+  <string name="Btn_Continue">Continuer</string>
+  <!--===============================================================-->
+  <!--Genres-->
+  <string name="Lbl_Genres">Les genres</string>
+  <string name="Lbl_Interest">Intérêt</string>
+  <string name="Lbl_ChooseGenres">Choisissez les genres</string>
+  <string name="Lbl_SelectYourMusicPreference">Sélectionnez votre préférence de musique</string>
+  <string name="Lbl_YouCanChangeTheseLater">Vous pouvez les changer plus tard</string>
+  <string name="Lbl_PleaseSelectInterest">Veuillez sélectionner au moins un intérêt</string>
+  <!--===============================================================-->
+  <!--Albums-->
+  <string name="Lbl_Albums">Albums</string>
+  <string name="Lbl_InAlbum">"dans l&apos;album"</string>
+  <string name="Lbl_NoMoreSongs">Pas plus de chansons trouvées</string>
+  <string name="Lbl_NoMoreAlbums">Aucun autre album trouvé</string>
+  <!--===============================================================-->
+  <!--Artists-->
+  <string name="Lbl_Artists">Artistes</string>
+  <string name="Lbl_NoMoreArtists">"Pas plus d&apos;artistes trouvés"</string>
+  <!--===============================================================-->
+  <!--Filter-->
+  <string name="Lbl_Filter">Filtre</string>
+  <string name="Lbl_Price">Prix</string>
+  <string name="Lbl_SelectAll">Tout sélectionner</string>
+  <string name="Lbl_ApplyFilter">Appliquer le filtre</string>
+  <string name="Lbl_ChoosePrice">Choisissez le prix</string>
+  <!--===============================================================-->
+  <!--Create Playlist-->
+  <string name="Lbl_CreatePlaylist">Créer une playlist</string>
+  <string name="Lbl_PlaylistName">Nom de la playlist</string>
+  <string name="Lbl_SubTitleCreatePlaylist">Créer et partager une playlist. Chaque liste de lecture est créée et organisée de manière personnalisée pour vous aider à trouver la meilleure musique selon vos préférences.</string>
+  <string name="Lbl_PleaseEnterName">Erreur, veuillez entrer le nom de la playlist</string>
+  <string name="Lbl_PleaseSelectImage">Erreur, merci de sélectionner Image</string>
+  <!--===============================================================-->
+  <!--Playlist-->
+  <string name="Lbl_MyPlaylist">Ma Playlist</string>
+  <string name="Lbl_DeletePlaylist">Supprimer la Playlist</string>
+  <string name="Lbl_EditPlaylist">Editer la playlist</string>
+  <string name="Lbl_AreYouSureDeletePlaylist">Etez-vous sur Supprimer la playlist</string>
+  <string name="Lbl_PlaylistSuccessfullyUpdated">Playlist mise à jour avec succès</string>
+  <string name="Lbl_PlaylistSuccessfullyDeleted">Playlist supprimée avec succès</string>
+  <string name="Lbl_NoMorePlaylist">Plus de Playlist trouvée</string>
+  <string name="Lbl_SelectPlaylist">Sélectionnez une playlist</string>
+  <!--===============================================================-->
+  <!--Upload Song-->
+  <string name="Lbl_UploadSong">Uploader la chanson</string>
+  <string name="Lbl_subTitleUploadSong">Ajouter toutes les informations sur ce fichier audio</string>
+  <string name="Lbl_SongTitle">Titre de la chanson</string>
+  <string name="Lbl_Tags">Tag(s)</string>
+  <string name="Lbl_DescriptionOfTag">
+    Ajoutez des tags pour décrire plus en détail votre piste en ajoutant un <b>"&apos;,&apos;"</b> signer à la fin de chaque balise sans espace entre eux.
+  </string>
+  <string name="Lbl_Availability">Disponibilité</string>
+  <string name="Lbl_AgeRestriction">"Restriction d&apos;âge"</string>
+  <string name="Lbl_AgeRestrictionText0">Tous les âges peuvent écouter cette chanson</string>
+  <string name="Lbl_AgeRestrictionText1">Seulement +18</string>
+  <string name="Lbl_PleaseEnterTitleSong">"Erreur s&apos;il vous mettez un titre pour le son"</string>
+  <string name="Lbl_PleaseEnterDescriptionSong">"Erreur s&apos;il vous mettez une description pour le son"</string>
+  <string name="Lbl_PleaseEnterTags">Erreur, veuillez écrire des tags</string>
+  <string name="Lbl_PleaseChooseGenres">Erreur, veuillez choisir les genres</string>
+  <string name="Lbl_PleaseChooseAgeRestriction">"Erreur, veuillez choisir la limite d&apos;âge"</string>
+  <!--===============================================================-->
+  <!--Upload Album-->
+  <string name="Lbl_UploadAlbum">Télécharger un album</string>
+  <string name="Lbl_subTitleUploadAlbum">Créez et partagez un album. Chaque album est créé et organisé de manière personnalisée pour vous aider à trouver la meilleure musique selon vos préférences..</string>
+  <string name="Lbl_AlbumTitle">"Titre de l&apos;album"</string>
+  <string name="Lbl_PleaseChoosePrice">"Erreur, s&apos;il vous plaît choisir le prix"</string>
+  <!--===============================================================-->
+  <!--Song-->
+  <string name="Lbl_EditSong">Editer la chanson</string>
+  <string name="Lbl_DeleteSong">Supprimer la chanson</string>
+  <string name="Lbl_ReportSong">Signaler cette chanson</string>
+  <string name="Lbl_AreYouSureDeleteSong">Êtes-vous sûr de supprimer la chanson</string>
+  <string name="Lbl_SongSuccessfullyDeleted">Chanson supprimée avec succès</string>
+  <string name="Lbl_YourReportSong">Votre chanson de reportage</string>
+  <string name="Lbl_AddedOn">Ajouté le</string>
+  <!--===============================================================-->
+  <!--Title List-->
+  <string name="Lbl_Browse_Description">Explorer par genre et humeur</string>
+  <string name="Lbl_Popular_Title">Populaire</string>
+  <string name="Lbl_Store_Title">la boutique</string>
+  <string name="Lbl_Activities_Title">Activités</string>
+  <string name="Lbl_TopSongs_Title">Top Musique</string>
+  <string name="Lbl_TopAlbums_Title">Top Albums</string>
+  <string name="Lbl_LatestSongs_Title">Dernières chansons</string>
+  <string name="Lbl_LatestSongs_Description">Nouveaux sons publiés récemment</string>
+  <!--===============================================================-->
+  <!--Refresh-->
+  <string name="Lbl_PullToRefresh">Tirer pour rafraîchir</string>
+  <string name="Lbl_RefreshMyNewsFeed">Mettre à jour les derniers utilisateurs</string>
+  <string name="Lbl_Refreshing">Rafraîchissante</string>
+  <!--===============================================================-->
+  <!--Empty State Inflater-->
+  <string name="Lbl_NoConnection_TitleText">"Pas d&apos;Internet disponible"</string>
+  <string name="Lbl_NoConnection_DescriptionText">"Nous n&apos;avons pas pu établir de connexion avec nos serveurs. Veuillez réessayer ultérieurement.."</string>
+  <string name="Lbl_NoConnection_Button">"Réessayer"</string>
+  <string name="Lbl_NoSearchResult_TitleText">Triste aucun résultat !</string>
+  <string name="Lbl_NoSearchResult_DescriptionText">"Nous ne trouvons pas le mot-clé recherché peut-être une petite faute d&apos;orthographe. ?"</string>
+  <string name="Lbl_NoSearchResult_Button">Rechercher au hasard</string>
+  <string name="Lbl_SomThingWentWrong_TitleText">"Quelque chose s&apos;est mal passé"</string>
+  <string name="Lbl_SomThingWentWrong_DescriptionText">Le serveur répond</string>
+  <string name="Lbl_SomThingWentWrong_Button">Réessayer</string>
+  <string name="Lbl_NoNotification_TitleText">Pas encore de notifications</string>
+  <string name="Lbl_NoNotification_DescriptionText">Nous afficherons une fois que vous obtenez votre première activité ici</string>
+  <string name="Lbl_NoMessage_TitleText">Pas plus de messages</string>
+  <string name="Lbl_NoMessage_DescriptionText">Pas encore de conversations en</string>
+  <string name="Lbl_NoBlockUsers">"Il n&apos;y a pas d&apos;utilisateurs"</string>
+  <string name="Lbl_NoComments_TitleText">"Aucun commentaire pour l&apos;instant"</string>
+  <string name="Lbl_NoComments_DescriptionText">Commencez la conversation en laissant le premier commentaire.</string>
+  <string name="Lbl_NoPlaylist_TitleText">"Vous n&apos;avez pas encore de playlists"</string>
+  <string name="Lbl_NoAlbums_TitleText">"Vous n&apos;avez pas encore aimé d&apos;albums"</string>
+  <string name="Lbl_NoLiked_TitleText">"Vous n&apos;avez encore aimé aucune chanson"</string>
+  <string name="Lbl_NoRecentlyPlayed_TitleText">"Vous n&apos;avez pas encore d&apos;écoute"</string>
+  <string name="Lbl_NoFavorites_TitleText">"Vous n&apos;avez pas encore de chanson préférée"</string>
+  <string name="Lbl_NoArtists_TitleText">"Pas encore artiste"</string>
+  <string name="Lbl_NoDataUser_TitleText">Semble un peu tranquille ici</string>
+  <!--===============================================================-->
+  <!--Comments-->
+  <string name="Lbl_YourComment">Votre commentaire..</string>
+  <string name="Lbl_NoMoreComment">Aucun autre commentaire trouvé</string>
+  <!--===============================================================-->
+  <!--Notifications-->
+  <string name="Lbl_FollowUser">Commencé à vous suivre</string>
+  <string name="Lbl_LikedTrack">aimé ta chanson</string>
+  <string name="Lbl_LikedComment">aimé votre commentaire</string>
+  <string name="Lbl_PurchasedYourSong">acheté votre chanson</string>
+  <string name="Lbl_ApprovedArtist">Toutes nos félicitations! Votre demande de devenir artiste a été approuvée</string>
+  <string name="Lbl_DeclineArtist">Malheureusement, ta demande de devenir artiste a été refusée</string>
+  <!--===============================================================-->
+  <!--Error Login-->
+  <string name="Lbl_ErrorPleaseCheckYourDetails">"S&apos;il vous plaît vérifier vos informations"</string>
+  <string name="Lbl_ErrorLogin2">identifiant ou mot de passe incorrect</string>
+  <string name="Lbl_ErrorLogin3">"Votre compte n&apos;est pas encore activé, veuillez vérifier dans votre boîte de réception le lien d&apos;activation."</string>
+
+  <string name="Lbl_ErrorRegister2">"Ce nom d&apos;utilisateur est déjà pris"</string>
+  <string name="Lbl_ErrorRegister3">"La longueur du nom d&apos;utilisateur doit être comprise entre 5/32"</string>
+  <string name="Lbl_ErrorRegister4">"Nom d&apos;utilisateur invalide"</string>
+  <string name="Lbl_ErrorRegister5">Cet e-mail est déjà pris</string>
+  <string name="Lbl_ErrorRegister6">Cette adresse email est invalide</string>
+  <string name="Lbl_ErrorRegister7">"Les mots de passe ne correspondent pas"</string>
+  <string name="Lbl_ErrorRegister8">Le mot de passe est trop court</string>
+
+  <!--Error Forgot Password-->
+  <string name="Lbl_ErrorForgotPassword2">Cet e-mail est introuvable</string>
+  <string name="Lbl_ErrorForgotPassword3">"Erreur détectée lors de l&apos;envoi du lien de réinitialisation, veuillez réessayer ultérieurement."</string>
+
+  <!--Error-->
+  <string name="Lbl_Error_Code">"Code d&apos;erreur"</string>
+  <string name="Lbl_Please_check_your_details">Erreur, veuillez vérifier vos coordonnées</string>
+  <string name="Lbl_Please_enter_your_data">Erreur, veuillez entrer vos données</string>
+  <string name="Lbl_IsEmailValid">Erreur, veuillez écrire votre adresse email complète</string>
+  <!--===============================================================-->
+  <!--Library-->
+  <string name="Lbl_Songs">Chansons</string>
+  <string name="Lbl_Liked">Aimé</string>
+  <string name="Lbl_RecentlyPlayed">Joué récemment</string>
+  <string name="Lbl_Favorites">Favoris</string>
+  <string name="Lbl_LatestDownloads">Derniers téléchargements</string>
+  <string name="Lbl_Shared">Partagé</string>
+  <string name="Lbl_NoMoreFavorites">Aucune chanson préférée trouvée</string>
+  <string name="Lbl_NoMoreLiked">Aucune chanson préférée trouvée</string>
+  <string name="Lbl_NoMoreRecentlyPlayed">Aucune chanson récemment jouée trouvée</string>
+  <!--===============================================================-->
+  <!--Settings-->
+  <string name="Lbl_General">General</string>
+  <string name="Lbl_MyAccount">Mon compte</string>
+  <string name="Lbl_SocialLinks">Liens sociaux</string>
+  <string name="Lbl_Privacy">Intimité</string>
+  <string name="Lbl_Storage">Espace de rangement</string>
+  <string name="Lbl_ClearCache">Vider le cache</string>
+  <string name="Lbl_Support">Soutien</string>
+  <string name="Lbl_Help">Aidez-moi</string>
+  <string name="Lbl_Logout">Se déconnecter</string>
+  <string name="Lbl_Night_Mode">Mode sombre</string>
+  <!--===============================================================-->
+  <!--Social Links-->
+  <string name="Lbl_Facebook">Facebook</string>
+  <string name="Lbl_Twitter">Twitter</string>
+  <string name="Lbl_GooglePlus">Google Plus</string>
+  <string name="Lbl_Instagram">Instagram</string>
+  <string name="Lbl_LinkedIn">LinkedIn</string>
+  <string name="Lbl_Website">Website</string>
+  <!--===============================================================-->
+  <!--Block Users-->
+  <string name="Lbl_BlockedUsers">Utilisateurs bloqués</string>
+  <string name="Lbl_Block">Bloc</string>
+  <string name="Lbl_Blocked_successfully">bloqué avec succès</string>
+  <string name="Lbl_Unblock_successfully">Débloquer avec succès</string>
+  <string name="Lbl_DoYouWantUnblock">Voulez-vous débloquer cet utilisateur</string>
+  <!--===============================================================-->
+  <!--Delete Account-->
+  <string name="Lbl_Are_you_DeleteAccount">Êtes-vous sûr de vouloir supprimer le compte de</string>
+  <string name="Lbl_Your_account_was_successfully_deleted">Votre compte a été supprimé avec succès</string>
+  <string name="Lbl_Error_Terms">Vous ne pouvez pas accéder à votre désapprobation des termes et conditions</string>
+  <string name="Lbl_DeleteAccount">Supprimer le compte</string>
+  <string name="Lbl_RemoveAccount">Supprimer le compte</string>
+  <string name="Lbl_IWantToDelete1">Oui, je veux supprimer</string>
+  <string name="Lbl_IWantToDelete2">en permanence de</string>
+  <string name="Lbl_IWantToDelete3">Compte.</string>
+  <!--===============================================================-->
+  <!--About App-->
+  <string name="Lbl_PrivacyPolicy">Politique de confidentialité</string>
+  <string name="Lbl_TermsOfUse">"Conditions d&apos;utilisation"</string>
+  <string name="Lbl_Version">Version</string>
+  <string name="Lbl_Changelog">Changelog</string>
+  <string name="Lbl_RateOurApp">Évaluez notre application</string>
+  <string name="Lbl_AboutUs">À propos de nous</string>
+  <!--===============================================================-->
+  <!--Report-->
+  <string name="Lbl_ReportProblem">Signaler un problème</string>
+  <string name="Lbl_received_your_report">Merci, nous avons reçu votre rapport!</string>
+  <string name="Lbl_TypeMessage">Tapez un message</string>
+  <!--===============================================================-->
+  <string name="Lbl_ErrorPlayingAudio">"Une erreur s&apos;est produite lors de la lecture de l&apos;audio"</string>
+  <string name="Lbl_Download_failed">Échec du téléchargement.</string>
+  <string name="Lbl_Do_You_want_to_remove_Song">Voulez-vous supprimer la chanson du cache</string>
+  <string name="Lbl_DownloadSuccessful">Téléchargement réussi</string>
+  <string name="Lbl_NoMoreNotificationsFound">Pas plus de notifications trouvées</string>
+  <string name="Lbl_Free">Libre</string>
+  <string name="Lbl_loadMore">charger plus</string>
+
+  <!--===============================================================-->
+
+  <!--new strings V1.4-->
+  <string name="Lbl_Enjoy_your_favorite_songs">Profitez de vos chansons préférées</string>
+  <string name="Lbl_Start_signin">Connectez-vous pour accéder à la chanson que vous avez aimée ou enregistrée</string>
+  <string name="Lbl_Message_Sorry_signin">Désolé vous ne pouvez pas continuer, vous devez vous connecter et avoir accès à tout ce que vous voulez</string>
+
+  <string name="Lbl_Lyrics">Paroles</string>
+  <string name="Lbl_AllowDownloads">Autoriser les téléchargements</string>
+  <string name="Lbl_PleaseChooseAllowDownloads">Erreur, veuillez autoriser les téléchargements</string>
+
+  <string name="Lbl_Purchase">achat</string>
+  <string name="Lbl_Purchases">Achats</string>
+  <string name="Lbl_NoPurchasesSongsFound">Aucune chanson achetée trouvée</string>
+  <string name="Lbl_PurchaseRequired">Achat requis</string>
+  <string name="Lbl_PurchaseRequiredContent">Pour continuer à écouter cette piste, vous devez acheter la chanson.</string>
+
+  <!--Upgrade To PRO-->
+  <string name="Lbl_upgrade_now">Mettre à jour maintenant</string>
+  <string name="Lbl_Go_Pro">Go Pro</string>
+  <string name="Lbl_Title_Pro1">Découvrez plus de fonctionnalités avec</string>
+  <string name="Lbl_Title_Pro2">Forfait Pro</string>
+
+  <string-array name="go_pro_array">
+    <item>Téléchargez des chansons illimitées</item>
+    <item>Badge pro</item>
+    <item>Mettez en avant vos chansons (en vedette)</item>
+    <item>Télécharger des chansons</item>
+  </string-array>
+
+  <!--Payment-->
+  <string name="Lbl_Canceled">Annulé</string>
+  <string name="Lbl_Invalid">Invalide</string>
+
+  <!--Withdrawals-->
+  <string name="Lbl_Withdrawals">Retraits</string>
+  <string name="Lbl_PayPalEmail">Email Paypal</string>
+  <string name="Lbl_Amount">Montant</string>
+  <string name="Lbl_MyBalance">MON SOLDE</string>
+  <string name="Lbl_CantRequestWithdrawals">"Vous ne pouvez pas demander ce montant qui n&apos;est pas proportionnel à votre solde actuel"</string>
+  <string name="Lbl_RequestSentWithdrawals">Votre demande de retrait a bien été envoyée</string>
+  
+</resources>
